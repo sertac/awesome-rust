@@ -52,6 +52,7 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
   * [Static analysis](#static-analysis)
   * [Testing](#testing)
   * [Transpiling](#transpiling)
+- [Jobs](#jobs)
 - [Libraries](#libraries)
   * [Artificial Intelligence](#artificial-intelligence)
     + [Genetic algorithms](#genetic-algorithms)
@@ -957,6 +958,10 @@ See also [Are we (I)DE yet?](https://areweideyet.com/) and [Rust Tools](https://
 ## Libraries
 
 * [perf-monitor-rs](https://github.com/larksuite/perf-monitor-rs) - A toolkit designed to be a foundation for applications to monitor their performance. [![crates.io](https://img.shields.io/crates/v/perf_monitor.svg)](https://crates.io/crates/perf_monitor)
+
+## Jobs
+
+* [Rustjobs.Net](https://rustjobs.net) - A niche website that is helping rust community to find latest rust development jobs with super user-friendly design and fast interface.
 
 ### Artificial Intelligence
 
